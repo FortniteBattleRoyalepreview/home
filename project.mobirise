@@ -31,7 +31,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
     "uniqCompNum": 11,
-    "versionPublish": "4.6.3"
+    "versionPublish": "4.6.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -115,7 +116,7 @@
           },
           "title": "<font color=\"#07f94e\" style=\"font-weight: normal;\"><i>Fortnite Battle Royale Hack Generator</i></font>",
           "text": "<b>Generate unlimited number of Fortnite Battle Royale V Bucks with our one of a kind generator tool and never lose a single game again.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://99882.freevbuckx.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(7, 249, 78);\"></span>get V-Bucks</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://99882.freevbuckx.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(7, 249, 78);\"></span>Get Your V-Bucks Now</a>",
           "_tags": [
             "Theme"
           ],
