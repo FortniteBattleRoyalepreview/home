@@ -1,36 +1,20 @@
 {
   "settings": {
-    "name": "Site-09-13_2139",
+    "name": "Site-09-18_0258",
     "currentPage": "index.html",
     "theme": {
-      "name": "mobirise3",
-      "title": "Mobirise 3",
-      "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#07f94e",
-        "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
-      },
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
       "additionalSetColors": [
-        "#f9e07c",
-        "#07f94e",
-        "#e67526",
-        "#f5c504",
-        "#fdde5e"
+        "#9df25e",
+        "#c517d6",
+        "#ff0505"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 11,
+    "uniqCompNum": 5,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png"
   },
@@ -38,133 +22,55 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Fortnite Battle Royale Hack Generator",
-        "meta_descr": "Fortnite Battle Royale Preview\nUp to 10,000, get free V-Bucks today to complete the battle pass before your friends.\nGenerate unlimited number of Fortnite Battle Royale V Bucks with our one of a kind generator tool and never lose a single game again",
+        "title": "Home",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
       "components": [
         {
-          "_params": {
-            "showText": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fdde5e"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/featured-large-fortnite006-1-1240x275.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-9"
-        },
-        {
+          "_inherit": "header1",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
             "showArrow": false,
-            "imageSize": "61",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photoshop-wallpapers-2-1024x768.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/l1sfmbq-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#4c6972",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mlwphhi-800x450.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<font color=\"#07f94e\" style=\"font-weight: normal;\"><i>Fortnite Battle Royale Hack Generator</i></font>",
-          "text": "<b>Generate unlimited number of Fortnite Battle Royale V Bucks with our one of a kind generator tool and never lose a single game again.</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"http://99882.freevbuckx.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 19px; color: rgb(7, 249, 78);\"></span>Get Your V-Bucks Now</a>",
+          "title": "Fortnite Battle Royale Hack Generator",
+          "text": "Generate unlimited number of Fortnite Battle Royale V Bucks with our one of a kind generator tool and never lose a single game again.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"http://99882.freevbuckx.com\" data-toolbar=\"-mbrBtnMove\">Get Your V-Bucks Now</a>",
           "_tags": [
             "Theme"
           ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header2",
-          "_anchor": "header2-2",
+          "_anchor": "header2-0",
           "_styles": {
-            ".mbr-section-title": {
-              "font-size": "25px",
-              "color": "#f9e07c",
-              "text-align": "left"
-            },
-            ".mbr-section-title I": {
-              "color": "#07f94e",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#eb6b56",
-              "font-size": "25px"
-            },
             ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fdde5e",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2018 Fortnite Battle Royale Preview.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-a",
-          "_styles": {
+              "font-size": "14px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "H1": {
+              "font-size": "24px",
+              "color": "#f7da64"
+            },
             "P": {
-              "color": "#000000"
+              "color": "#9df25e"
             }
           }
         }
